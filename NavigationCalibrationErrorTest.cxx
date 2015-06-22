@@ -16,6 +16,7 @@
 =========================================================================*/
 
 #include <string.h>
+#include <cmath>
 
 #include "igtlOSUtil.h"
 #include "igtlStringMessage.h"
